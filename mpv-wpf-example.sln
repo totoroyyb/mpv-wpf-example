@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mpv-wpf-example", "mpv-wpf-example\mpv-wpf-example.csproj", "{2D506599-02BD-4B41-9F2F-D72E1AD8FCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D506599-02BD-4B41-9F2F-D72E1AD8FCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D506599-02BD-4B41-9F2F-D72E1AD8FCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D506599-02BD-4B41-9F2F-D72E1AD8FCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D506599-02BD-4B41-9F2F-D72E1AD8FCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5789C604-5CCE-4288-AFC2-F40A307E6243}
+	EndGlobalSection
+EndGlobal
